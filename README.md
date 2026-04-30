@@ -1,3 +1,4 @@
+![Elasticsearch Logo](/assets/Elasticsearch_Logo_1.jpg)
 # 🤖 ELK Automation Scripts
 
 Python scripts to automate monitoring tasks.
